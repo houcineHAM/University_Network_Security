@@ -1,8 +1,8 @@
-# **Martin Luther King University Network Design**
+# **University Network Design**
 
 ## Overview
 
-This repository contains the network design and implementation plan for Martin Luther King University. The goal is to create a secure, reliable, scalable, and robust network system that supports the university’s operations, ensuring confidentiality, integrity, and availability while maintaining top-tier performance, redundancy, and scalability.
+This repository contains the network design and implementation plan for University. The goal is to create a secure, reliable, scalable, and robust network system that supports the university’s operations, ensuring confidentiality, integrity, and availability while maintaining top-tier performance, redundancy, and scalability.
 
 The design focuses on creating a seamless communication and secure access for users across two campuses, supporting academic and administrative needs. It covers the integration of various technologies such as firewalls, wireless infrastructure, VPNs, and cloud services.
 
